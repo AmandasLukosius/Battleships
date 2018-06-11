@@ -1,0 +1,6 @@
+/Users/amandas/Projects/BattleShips/BattleShips/bin/Debug/BattleShips.exe
+/Users/amandas/Projects/BattleShips/BattleShips/bin/Debug/BattleShips.pdb
+/Users/amandas/Projects/BattleShips/BattleShips/obj/x86/Debug/BattleShips.csprojResolveAssemblyReference.cache
+/Users/amandas/Projects/BattleShips/BattleShips/obj/x86/Debug/BattleShips.csproj.CoreCompileInputs.cache
+/Users/amandas/Projects/BattleShips/BattleShips/obj/x86/Debug/BattleShips.exe
+/Users/amandas/Projects/BattleShips/BattleShips/obj/x86/Debug/BattleShips.pdb
